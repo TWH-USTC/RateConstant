@@ -1,0 +1,7 @@
+cirpy		1.0.2
+scikit-learn	1.6.1
+shap		0.49.1
+rdkit		2022.9.5
+torch		1.11.0+cu113
+unimol-tools	0.1.4.post1
+gpytorch		1.13
